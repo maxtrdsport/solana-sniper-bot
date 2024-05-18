@@ -1,0 +1,5 @@
+C:\Users\maxtr\OneDrive\Documents\GitHub\solana-sniper-bot\obj\Debug\net8.0\solana-sniper-bot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maxtr\OneDrive\Documents\GitHub\solana-sniper-bot\obj\Debug\net8.0\solana-sniper-bot.AssemblyInfoInputs.cache
+C:\Users\maxtr\OneDrive\Documents\GitHub\solana-sniper-bot\obj\Debug\net8.0\solana-sniper-bot.AssemblyInfo.cs
+C:\Users\maxtr\OneDrive\Documents\GitHub\solana-sniper-bot\obj\Debug\net8.0\solana-sniper-bot.csproj.CoreCompileInputs.cache
+C:\Users\maxtr\OneDrive\Documents\GitHub\solana-sniper-bot\obj\Debug\net8.0\solana-sniper-bot.sourcelink.json
