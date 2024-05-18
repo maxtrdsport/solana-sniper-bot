@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("solana-sniper-bot")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e66e93a74526189af4586a3456ef1934fd2ec7d7")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3179876d043807265a56c3c8f572c7005410fafe")]
 [assembly: System.Reflection.AssemblyProductAttribute("solana-sniper-bot")]
 [assembly: System.Reflection.AssemblyTitleAttribute("solana-sniper-bot")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
